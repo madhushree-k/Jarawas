@@ -1,0 +1,926 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jarawas.edu" resolutions="1x" timestamp="1525617604279">
+  <folder name="css">
+    <file name="site_global.css" crc="261642392"/>
+    <file name="master_a-master.css" crc="367374689" ref="ecology:social-structure:marriage:foraging:cooking:subsistence:rituals-and-beliefs:ethnography:settlements:material-culture:hunting:coming-of-age:tools-and-weapons:birth"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="ecology:social-structure:marriage:foraging:cooking:subsistence:rituals-and-beliefs:ethnography:settlements:material-culture:hunting:coming-of-age:tools-and-weapons:birth"/>
+    <file name="ecology.css" crc="153854866" ref="ecology"/>
+    <file name="nomq_ecology.css" crc="3921678171" ref="ecology"/>
+    <file name="social-structure.css" crc="4281942270" ref="social-structure"/>
+    <file name="nomq_social-structure.css" crc="60312940" ref="social-structure"/>
+    <file name="marriage.css" crc="49052924" ref="marriage"/>
+    <file name="nomq_marriage.css" crc="353870611" ref="marriage"/>
+    <file name="foraging.css" crc="3995077176" ref="foraging"/>
+    <file name="nomq_foraging.css" crc="13272197" ref="foraging"/>
+    <file name="cooking.css" crc="534612943" ref="cooking"/>
+    <file name="nomq_cooking.css" crc="395401995" ref="cooking"/>
+    <file name="subsistence.css" crc="354410378" ref="subsistence"/>
+    <file name="nomq_subsistence.css" crc="4007523313" ref="subsistence"/>
+    <file name="rituals-and-beliefs.css" crc="159846367" ref="rituals-and-beliefs"/>
+    <file name="nomq_rituals-and-beliefs.css" crc="4871067" ref="rituals-and-beliefs"/>
+    <file name="ethnography.css" crc="4203603569" ref="ethnography"/>
+    <file name="nomq_ethnography.css" crc="3770080173" ref="ethnography"/>
+    <file name="settlements.css" crc="233540210" ref="settlements"/>
+    <file name="nomq_settlements.css" crc="170209451" ref="settlements"/>
+    <file name="material-culture.css" crc="4243533485" ref="material-culture"/>
+    <file name="nomq_material-culture.css" crc="3787204022" ref="material-culture"/>
+    <file name="hunting.css" crc="54204437" ref="hunting"/>
+    <file name="nomq_hunting.css" crc="174784857" ref="hunting"/>
+    <file name="coming-of-age.css" crc="4216319227" ref="coming-of-age"/>
+    <file name="nomq_coming-of-age.css" crc="221231569" ref="coming-of-age"/>
+    <file name="tools-and-weapons.css" crc="283026987" ref="tools-and-weapons"/>
+    <file name="nomq_tools-and-weapons.css" crc="3908081711" ref="tools-and-weapons"/>
+    <file name="birth.css" crc="525546731" ref="birth"/>
+    <file name="nomq_birth.css" crc="516316170" ref="birth"/>
+    <file name="index.css" crc="262998367" ref="index"/>
+    <file name="nomq_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="kill-shot0001.gif" crc="351830020" seo="true" mt="1525430868000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="museutils.js" crc="3803043152" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="whatinput.js" crc="86476730" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="webpro.js" crc="242022427" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="require.js" crc="4157109226" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="html5shiv.js" crc="4241844378" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3820244650" ref="index"/>
+    <file name="asset 109jarawa-crop-u18114.png" crc="3793361819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u26913.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27063.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27073.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27083.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27093.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27103.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27113.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27123.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27133.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27143.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27153.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27163.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27173.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 107 (2)jarawa-crop-u27183.png" crc="4158004422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 97jarawa.png" crc="3928888558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 104jarawa.png" crc="4181341717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 105jarawa.png" crc="4284085253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 93jarawa.png" crc="440744920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 95jarawa.png" crc="3955999746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 94jarawa.png" crc="133185861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 103jarawa.png" crc="287735176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 102jarawa.png" crc="4158311936" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 92jarawa.png" crc="3859627400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 91jarawa.png" crc="110347237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 101jarawa.png" crc="67346846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 98jarawa.png" crc="3968860497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 99jarawa.png" crc="3974143825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 100jarawa.png" crc="3993588739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 71jarawa.png" crc="4124212658" seo="true" ref="social-structure">
+      <caption webpage="social-structure" alt=""/>
+    </file>
+    <file name="asset 9symbol.png" crc="367480550" seo="true" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth">
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="social-structure" alt=""/>
+      <caption webpage="social-structure" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 11symbol252x199.png" crc="523385069" seo="true" ref="social-structure">
+      <caption webpage="social-structure" alt=""/>
+    </file>
+    <file name="asset 8symbol.png" crc="4190849312" seo="true" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth">
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="social-structure" alt=""/>
+      <caption webpage="social-structure" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 71jarawa-crop-u21981.png" crc="3891667601" seo="true" ref="social-structure">
+      <caption webpage="social-structure" alt=""/>
+    </file>
+    <file name="asset 11symbol-crop-u7965.png" crc="465762820" seo="true" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth">
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="social-structure" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
+    <file name="asset 60jarawa.png" crc="453131281" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 61jarawa.png" crc="476704343" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 62jarawa.png" crc="4086828229" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 63jarawa.png" crc="251891856" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 64jarawa.png" crc="510748058" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 65jarawa.png" crc="263849674" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 66jarawa.png" crc="4192877769" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 67jarawa.png" crc="403531614" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 50jarawa.png" crc="3835970146" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 51jarawa.png" crc="3817006800" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 52jarawa.png" crc="3824762587" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 46jarawa-crop-u20183.png" crc="4269170229" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 54jarawa-crop-u20263.png" crc="4191283768" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 56jarawa.png" crc="4182978856" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 57jarawa.png" crc="60377285" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 58jarawa.png" crc="4031374010" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 53jarawa.png" crc="257123488" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 55jarawa-crop-u20270.png" crc="214141562" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 59jarawa.png" crc="4230554013" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 47jarawa.png" crc="299507959" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 49jarawa-crop-u20204.png" crc="110932565" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 45jarawa-crop-u20175.png" crc="299813441" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 72jarawa-crop-u22370.png" crc="4036467367" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 60jarawa74x87.png" crc="453131281" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 62jarawa69x72.png" crc="3791105135" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 63jarawa83x121.png" crc="127621060" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 67jarawa90x164.png" crc="403531614" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 54jarawa-crop-u202632.png" crc="4225712165" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 57jarawa73x81.png" crc="60377285" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 53jarawa73x72.png" crc="257123488" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 55jarawa125x89.png" crc="3818111463" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 46jarawa-crop-u201832.png" crc="3799003252" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 49jarawa-crop-u202042.png" crc="4280270547" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 45jarawa-crop-u201752.png" crc="344814536" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 72jarawa-crop-u223702.png" crc="514425461" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 60jarawa69x82.png" crc="453131281" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 62jarawa65x67.png" crc="4086828229" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 63jarawa78x114.png" crc="4288194244" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 67jarawa85x154.png" crc="403531614" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 54jarawa-crop-u202633.png" crc="4063832854" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 57jarawa68x76.png" crc="60377285" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 53jarawa68x68.png" crc="257123488" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 55jarawa-crop-u202702.png" crc="388826156" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 46jarawa-crop-u201833.png" crc="389015256" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 49jarawa-crop-u202043.png" crc="4059745208" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 45jarawa-crop-u201753.png" crc="4044120744" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 72jarawa-crop-u223703.png" crc="4080713120" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 60jarawa55x66.png" crc="535953064" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 62jarawa52x54.png" crc="258517872" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 63jarawa62x91.png" crc="486956965" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 67jarawa68x123.png" crc="4182466517" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 57jarawa55x61.png" crc="4151325845" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 54jarawa64x74.png" crc="55091524" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 53jarawa55x54.png" crc="425476108" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 55jarawa94x67.png" crc="3796813739" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 46jarawa-crop-u201834.png" crc="4120123309" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 49jarawa-crop-u202044.png" crc="3943153883" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 45jarawa-crop-u201754.png" crc="4031956153" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 72jarawa-crop-u223704.png" crc="450292830" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 9symbol-crop-u3862.png" crc="4212712706" seo="true" ref="ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth">
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="hunting" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 63jarawa29x43.png" crc="520934096" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 67jarawa32x58.png" crc="501623576" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 60jarawa26x31.png" crc="3946064576" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 62jarawa25x26.png" crc="126214707" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 54jarawa30x35.png" crc="3836922113" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 57jarawa26x29.png" crc="3997392567" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 53jarawa26x26.png" crc="4028201750" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 55jarawa44x32.png" crc="3834035839" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 46jarawa-crop-u201835.png" crc="3795005523" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 49jarawa-crop-u202045.png" crc="465147081" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 45jarawa-crop-u201755.png" crc="84819994" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 72jarawa-crop-u223705.png" crc="235448863" seo="true" ref="ecology">
+      <caption webpage="ecology" alt=""/>
+    </file>
+    <file name="asset 73jarawa.png" crc="4014379849" seo="true" ref="ethnography">
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+      <caption webpage="ethnography" alt=""/>
+    </file>
+    <file name="asset 20jarawa.png" crc="3793151451" seo="true" ref="ethnography">
+      <caption webpage="ethnography" alt=""/>
+    </file>
+    <file name="asset 20jarawa186x247.png" crc="3826283044" seo="true" ref="ethnography">
+      <caption webpage="ethnography" alt=""/>
+    </file>
+    <file name="asset 20jarawa174x232.png" crc="528185041" seo="true" ref="ethnography">
+      <caption webpage="ethnography" alt=""/>
+    </file>
+    <file name="asset 20jarawa140x186.png" crc="3859556210" seo="true" ref="ethnography">
+      <caption webpage="ethnography" alt=""/>
+    </file>
+    <file name="asset 20jarawa66x87.png" crc="34360814" seo="true" ref="ethnography">
+      <caption webpage="ethnography" alt=""/>
+    </file>
+    <file name="asset 30jarawa.png" crc="4125163730" seo="true" ref="rituals-and-beliefs">
+      <caption webpage="rituals-and-beliefs" alt=""/>
+    </file>
+    <file name="asset 30jarawa-crop-u17250.png" crc="3902089263" seo="true" ref="rituals-and-beliefs">
+      <caption webpage="rituals-and-beliefs" alt=""/>
+    </file>
+    <file name="asset 30jarawa-crop-u172502.png" crc="360072818" seo="true" ref="rituals-and-beliefs">
+      <caption webpage="rituals-and-beliefs" alt=""/>
+    </file>
+    <file name="asset 30jarawa-crop-u172503.png" crc="3830334651" seo="true" ref="rituals-and-beliefs">
+      <caption webpage="rituals-and-beliefs" alt=""/>
+    </file>
+    <file name="asset 30jarawa-crop-u172504.png" crc="507860115" seo="true" ref="rituals-and-beliefs">
+      <caption webpage="rituals-and-beliefs" alt=""/>
+    </file>
+    <file name="asset 24jarawa.png" crc="243129894" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 31jarawa.png" crc="3962652370" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 24jarawa443x253.png" crc="243129894" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 31jarawa428x366.png" crc="3962652370" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 31jarawa401x343.png" crc="3962652370" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 24jarawa415x238.png" crc="343790321" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 31jarawa321x275.png" crc="3962652370" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 24jarawa332x190.png" crc="465806096" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 31jarawa151x129.png" crc="141760508" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 24jarawa156x89.png" crc="201151089" seo="true" ref="coming-of-age">
+      <caption webpage="coming-of-age" alt=""/>
+    </file>
+    <file name="asset 16jarawa.png" crc="95832982" seo="true" ref="marriage">
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+    </file>
+    <file name="asset 18jarawa.png" crc="4184314625" seo="true" ref="marriage">
+      <caption webpage="marriage" alt=""/>
+    </file>
+    <file name="asset 18jarawa216x338.png" crc="4184314625" seo="true" ref="marriage">
+      <caption webpage="marriage" alt=""/>
+    </file>
+    <file name="asset 18jarawa203x317.png" crc="4184314625" seo="true" ref="marriage">
+      <caption webpage="marriage" alt=""/>
+    </file>
+    <file name="asset 18jarawa162x254.png" crc="4184314625" seo="true" ref="marriage">
+      <caption webpage="marriage" alt=""/>
+    </file>
+    <file name="asset 18jarawa76x119.png" crc="3903150930" seo="true" ref="marriage">
+      <caption webpage="marriage" alt=""/>
+    </file>
+    <file name="asset 69jarawa.png" crc="3813993652" seo="true" ref="subsistence">
+      <caption webpage="subsistence" alt=""/>
+    </file>
+    <file name="asset 69jarawa892x639.png" crc="3813993652" seo="true" ref="subsistence">
+      <caption webpage="subsistence" alt=""/>
+    </file>
+    <file name="asset 69jarawa836x599.png" crc="3813993652" seo="true" ref="subsistence">
+      <caption webpage="subsistence" alt=""/>
+    </file>
+    <file name="asset 69jarawa669x479.png" crc="3813993652" seo="true" ref="subsistence">
+      <caption webpage="subsistence" alt=""/>
+    </file>
+    <file name="asset 69jarawa314x225.png" crc="206079481" seo="true" ref="subsistence">
+      <caption webpage="subsistence" alt=""/>
+    </file>
+    <file name="asset 14jarawa292x220.png" crc="3921706981" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 41jarawa316x224.png" crc="450852349" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 14jarawa-crop-u17336.png" crc="452838252" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 41jarawa-crop-u17350.png" crc="135772531" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 14jarawa-crop-u173362.png" crc="4128256066" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 41jarawa-crop-u173502.png" crc="238476086" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 14jarawa-crop-u173363.png" crc="33061221" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 41jarawa-crop-u173503.png" crc="4146203626" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 14jarawa-crop-u173364.png" crc="440943961" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 41jarawa-crop-u173504.png" crc="4083005707" seo="true" ref="foraging">
+      <caption webpage="foraging" alt=""/>
+    </file>
+    <file name="asset 32jarawa-crop-u16869.png" crc="140105018" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 31jarawa342x292.png" crc="3962652370" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 21jarawa.png" crc="187465079" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 32jarawa-crop-u168692.png" crc="3821574616" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 31jarawa273x234.png" crc="3797305579" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 32jarawa-crop-u168693.png" crc="354839982" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 31jarawa256x219.png" crc="315042838" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 32jarawa-crop-u168694.png" crc="4066361428" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 31jarawa205x176.png" crc="3869408086" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 32jarawa-crop-u168695.png" crc="3920058189" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 31jarawa96x83.png" crc="4092910844" seo="true" ref="cooking">
+      <caption webpage="cooking" alt=""/>
+    </file>
+    <file name="asset 28jarawa.png" crc="96091978" seo="true" ref="material-culture">
+      <caption webpage="material-culture" alt=""/>
+    </file>
+    <file name="asset 28jarawa-crop-u17300.png" crc="390036841" seo="true" ref="material-culture">
+      <caption webpage="material-culture" alt=""/>
+    </file>
+    <file name="asset 28jarawa-crop-u173002.png" crc="308527249" seo="true" ref="material-culture">
+      <caption webpage="material-culture" alt=""/>
+    </file>
+    <file name="asset 28jarawa-crop-u173003.png" crc="3818598980" seo="true" ref="material-culture">
+      <caption webpage="material-culture" alt=""/>
+    </file>
+    <file name="asset 28jarawa-crop-u173004.png" crc="414994562" seo="true" ref="material-culture">
+      <caption webpage="material-culture" alt=""/>
+    </file>
+    <file name="asset 22jarawa.png" crc="3866970985" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 23jarawa.png" crc="3895888554" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 22jarawa457x215.png" crc="3866970985" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 23jarawa461x218.png" crc="3895888554" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 22jarawa429x202.png" crc="3866970985" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 23jarawa432x205.png" crc="3895888554" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 22jarawa343x162.png" crc="3866970985" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 23jarawa346x164.png" crc="3895888554" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 22jarawa161x76.png" crc="3937954368" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 23jarawa162x77.png" crc="340947853" seo="true" ref="settlements">
+      <caption webpage="settlements" alt=""/>
+    </file>
+    <file name="asset 13jarawa.png" crc="4003626641" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 26jarawa.png" crc="889709" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 26jarawa359x287.png" crc="889709" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 13jarawa388x242.png" crc="4003626641" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 26jarawa336x269.png" crc="889709" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 13jarawa363x227.png" crc="4003626641" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 26jarawa269x216.png" crc="4105686710" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 13jarawa291x182.png" crc="4003626641" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 26jarawa126x101.png" crc="17701527" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 13jarawa137x85.png" crc="3873237321" seo="true" ref="tools-and-weapons">
+      <caption webpage="tools-and-weapons" alt=""/>
+    </file>
+    <file name="asset 40jarawa.png" crc="3882837526" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 7jarawa-crop-u16838.png" crc="3773141347" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 7jarawa-crop-u168382.png" crc="4067182622" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 40jarawa201x203.png" crc="3882837526" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 7jarawa-crop-u168383.png" crc="453509869" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 40jarawa189x191.png" crc="3882837526" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 7jarawa-crop-u168384.png" crc="3807022525" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 40jarawa151x153.png" crc="4115013713" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 7jarawa-crop-u168385.png" crc="341516128" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 40jarawa71x72.png" crc="185509174" seo="true" ref="hunting">
+      <caption webpage="hunting" alt=""/>
+    </file>
+    <file name="asset 27jarawa-crop-u23731.png" crc="210716999" seo="true" ref="birth">
+      <caption webpage="birth" alt=""/>
+    </file>
+    <file name="asset 27jarawa-crop-u237312.png" crc="4287371794" seo="true" ref="birth">
+      <caption webpage="birth" alt=""/>
+    </file>
+    <file name="asset 27jarawa-crop-u237313.png" crc="448147932" seo="true" ref="birth">
+      <caption webpage="birth" alt=""/>
+    </file>
+    <file name="asset 27jarawa-crop-u237314.png" crc="4269292068" seo="true" ref="birth">
+      <caption webpage="birth" alt=""/>
+    </file>
+    <file name="asset 27jarawa-crop-u237315.png" crc="4229027006" seo="true" ref="birth">
+      <caption webpage="birth" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3834167715" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="social-structure.html" crc="453383518" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="ecology.html" crc="26284601" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="ethnography.html" crc="260080278" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="rituals-and-beliefs.html" crc="269589887" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="coming-of-age.html" crc="3884709922" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="marriage.html" crc="3854981423" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="subsistence.html" crc="4093068812" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="foraging.html" crc="69971369" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="cooking.html" crc="123486393" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="material-culture.html" crc="159272553" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="settlements.html" crc="4062125033" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="tools-and-weapons.html" crc="489097040" seo="true" mt="1525617383055" redirect="true"/>
+  <file name="hunting.html" crc="427196616" seo="true" mt="1525612628266" redirect="true"/>
+  <file name="birth.html" crc="4050300530" seo="true" mt="1525612628266" redirect="true"/>
+</manifest>
