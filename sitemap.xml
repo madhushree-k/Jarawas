@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jarawas.edu/index.html</loc>
-    <lastmod>2018-05-06</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -95,20 +95,11 @@
   </url>
   <url>
     <loc>http://jarawas.edu/subsistence.html</loc>
-    <lastmod>2018-05-06</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2069jarawa.png</image:loc>
@@ -125,20 +116,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2069jarawa314x225.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/social-structure.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%2071jarawa.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jarawas.edu/images/asset%2011symbol252x199.png</image:loc>
+      <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/social-structure.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%2071jarawa.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
@@ -147,22 +141,22 @@
       <image:loc>http://jarawas.edu/images/asset%2071jarawa-crop-u21981.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%2011symbol252x199.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://jarawas.edu/ecology.html</loc>
-    <lastmod>2018-05-06</lastmod>
+    <lastmod>2018-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2060jarawa.png</image:loc>
@@ -342,9 +336,6 @@
       <image:loc>http://jarawas.edu/images/asset%2072jarawa-crop-u223704.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://jarawas.edu/images/asset%2063jarawa29x43.png</image:loc>
     </image:image>
     <image:image>
@@ -380,23 +371,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2072jarawa-crop-u223705.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/ethnography.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/ethnography.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2073jarawa.png</image:loc>
@@ -416,23 +407,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2020jarawa66x87.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/rituals-and-beliefs.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/rituals-and-beliefs.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2030jarawa.png</image:loc>
@@ -449,23 +440,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2030jarawa-crop-u172504.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/coming-of-age.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/coming-of-age.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2024jarawa.png</image:loc>
@@ -497,23 +488,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2024jarawa156x89.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/marriage.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/marriage.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2016jarawa.png</image:loc>
@@ -533,23 +524,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2018jarawa76x119.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/settlements.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/settlements.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2022jarawa.png</image:loc>
@@ -581,23 +572,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2023jarawa162x77.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/foraging.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/foraging.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2014jarawa292x220.png</image:loc>
@@ -629,23 +620,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2041jarawa-crop-u173504.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/cooking.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/cooking.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2032jarawa-crop-u16869.png</image:loc>
@@ -680,23 +671,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2031jarawa96x83.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/material-culture.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/material-culture.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2028jarawa.png</image:loc>
@@ -713,23 +704,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2028jarawa-crop-u173004.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/hunting.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/hunting.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2040jarawa.png</image:loc>
@@ -761,23 +752,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2040jarawa71x72.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/tools-and-weapons.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/tools-and-weapons.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2013jarawa.png</image:loc>
@@ -809,23 +800,23 @@
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2013jarawa137x85.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://jarawas.edu/birth.html</loc>
-    <lastmod>2018-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jarawas.edu/birth.html</loc>
+    <lastmod>2018-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%208symbol.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2027jarawa-crop-u23731.png</image:loc>
@@ -841,6 +832,15 @@
     </image:image>
     <image:image>
       <image:loc>http://jarawas.edu/images/asset%2027jarawa-crop-u237315.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%209symbol.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%2011symbol-crop-u7965.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jarawas.edu/images/asset%209symbol-crop-u3862.png</image:loc>
     </image:image>
   </url>
   <url>
