@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="https://madhushree-k.github.io/Jarawas" resolutions="1x" timestamp="1527595226603">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="https://madhushree-k.github.io/Jarawas" resolutions="1x" timestamp="1527595465215">
   <folder name="css">
     <file name="site_global.css" crc="3955134735"/>
     <file name="master_a-master.css" crc="99263717" ref="foraging:ecology:cooking:ethnography:material-culture:rituals-and-beliefs:settlements:coming-of-age:tools-and-weapons:marriage:hunting:subsistence:social-structure:birth"/>
@@ -23,8 +23,7 @@
     <file name="nomq_tools-and-weapons.css" crc="3908081711" ref="tools-and-weapons"/>
     <file name="marriage.css" crc="197669560" ref="marriage"/>
     <file name="nomq_marriage.css" crc="353870611" ref="marriage"/>
-    <file name="index.css" crc="172227292" ref="index"/>
-    <file name="nomq_index.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="511204853" ref="index"/>
     <file name="hunting.css" crc="4198736997" ref="hunting"/>
     <file name="nomq_hunting.css" crc="174784857" ref="hunting"/>
     <file name="subsistence.css" crc="413250641" ref="subsistence"/>
@@ -44,7 +43,6 @@
       <file name="leaf.js" crc="306254901" mt="1525621034000"/>
       <file name="leaf.html" crc="458748082" mt="1525621034000"/>
     </folder>
-    <file name="trial-killshot.gif" crc="449355376" seo="true" mt="1525438191000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
@@ -917,7 +915,7 @@
       <caption webpage="birth" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4052750223" seo="true" mt="1527594993805" redirect="true"/>
+  <file name="index.html" crc="3825634368" seo="true" mt="1527595408977" redirect="true"/>
   <file name="social-structure.html" crc="274481313" seo="true" mt="1525710751445" redirect="true"/>
   <file name="ecology.html" crc="289087704" seo="true" mt="1525710751445" redirect="true"/>
   <file name="ethnography.html" crc="4087724624" seo="true" mt="1525710751445" redirect="true"/>
