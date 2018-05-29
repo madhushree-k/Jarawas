@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="https://madhushree-k.github.io/Jarawas" resolutions="1x" timestamp="1527591394563">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="https://madhushree-k.github.io/Jarawas" resolutions="1x" timestamp="1527595226603">
   <folder name="css">
     <file name="site_global.css" crc="3955134735"/>
     <file name="master_a-master.css" crc="99263717" ref="foraging:ecology:cooking:ethnography:material-culture:rituals-and-beliefs:settlements:coming-of-age:tools-and-weapons:marriage:hunting:subsistence:social-structure:birth"/>
@@ -13,8 +13,8 @@
     <file name="nomq_ethnography.css" crc="3770080173" ref="ethnography"/>
     <file name="material-culture.css" crc="3773160268" ref="material-culture"/>
     <file name="nomq_material-culture.css" crc="307893596" ref="material-culture"/>
-    <file name="rituals-and-beliefs.css" crc="4250799836" ref="rituals-and-beliefs"/>
-    <file name="nomq_rituals-and-beliefs.css" crc="462111766" ref="rituals-and-beliefs"/>
+    <file name="rituals-and-beliefs.css" crc="524689562" ref="rituals-and-beliefs"/>
+    <file name="nomq_rituals-and-beliefs.css" crc="44440814" ref="rituals-and-beliefs"/>
     <file name="settlements.css" crc="4034452199" ref="settlements"/>
     <file name="nomq_settlements.css" crc="381942256" ref="settlements"/>
     <file name="coming-of-age.css" crc="330814975" ref="coming-of-age"/>
@@ -582,11 +582,11 @@
       <caption webpage="material-culture" alt=""/>
       <caption webpage="marriage" alt=""/>
       <caption webpage="subsistence" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="tools-and-weapons" alt=""/>
       <caption webpage="cooking" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="hunting" alt=""/>
-      <caption webpage="tools-and-weapons" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
       <caption webpage="ecology" alt=""/>
     </file>
     <file name="asset 63jarawa29x43.png" crc="520934096" seo="true" ref="ecology">
@@ -917,11 +917,11 @@
       <caption webpage="birth" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3758811321" seo="true" mt="1527590303085" redirect="true"/>
+  <file name="index.html" crc="4052750223" seo="true" mt="1527594993805" redirect="true"/>
   <file name="social-structure.html" crc="274481313" seo="true" mt="1525710751445" redirect="true"/>
   <file name="ecology.html" crc="289087704" seo="true" mt="1525710751445" redirect="true"/>
   <file name="ethnography.html" crc="4087724624" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="rituals-and-beliefs.html" crc="34867856" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="rituals-and-beliefs.html" crc="67628493" seo="true" mt="1527591957777" redirect="true"/>
   <file name="coming-of-age.html" crc="100274713" seo="true" mt="1525710751445" redirect="true"/>
   <file name="marriage.html" crc="506102859" seo="true" mt="1525710751445" redirect="true"/>
   <file name="subsistence.html" crc="4098527079" seo="true" mt="1525710751445" redirect="true"/>
