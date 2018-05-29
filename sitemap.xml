@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://madhushree-k.github.io/Jarawas/images/islandpng-crop-u18114.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://madhushree-k.github.io/Jarawas/images/asset%20107%20(2)jarawa-crop-u26913.png</image:loc>
     </image:image>
     <image:image>
@@ -91,6 +88,9 @@
     </image:image>
     <image:image>
       <image:loc>https://madhushree-k.github.io/Jarawas/images/asset%20100jarawa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://madhushree-k.github.io/Jarawas/images/asset-109jarawa-crop-u18114-crop-u18114.png</image:loc>
     </image:image>
   </url>
   <url>
