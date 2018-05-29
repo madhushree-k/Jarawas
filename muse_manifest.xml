@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jarawas.edu" resolutions="1x" timestamp="1527588267115">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="jarawas.edu" resolutions="1x" timestamp="1527590619799">
   <folder name="css">
     <file name="site_global.css" crc="3955134735"/>
     <file name="master_a-master.css" crc="99263717" ref="foraging:ecology:cooking:ethnography:material-culture:rituals-and-beliefs:settlements:coming-of-age:tools-and-weapons:marriage:hunting:subsistence:social-structure:birth"/>
@@ -23,14 +23,14 @@
     <file name="nomq_tools-and-weapons.css" crc="3908081711" ref="tools-and-weapons"/>
     <file name="marriage.css" crc="197669560" ref="marriage"/>
     <file name="nomq_marriage.css" crc="353870611" ref="marriage"/>
-    <file name="index.css" crc="3828575570" ref="index"/>
+    <file name="index.css" crc="172227292" ref="index"/>
     <file name="nomq_index.css" crc="3824530138" ref="index"/>
     <file name="hunting.css" crc="4198736997" ref="hunting"/>
     <file name="nomq_hunting.css" crc="174784857" ref="hunting"/>
     <file name="subsistence.css" crc="413250641" ref="subsistence"/>
     <file name="nomq_subsistence.css" crc="487117553" ref="subsistence"/>
-    <file name="social-structure.css" crc="251285555" ref="social-structure"/>
-    <file name="nomq_social-structure.css" crc="171626294" ref="social-structure"/>
+    <file name="social-structure.css" crc="451332820" ref="social-structure"/>
+    <file name="nomq_social-structure.css" crc="4045940631" ref="social-structure"/>
     <file name="birth.css" crc="3913566002" ref="birth"/>
     <file name="nomq_birth.css" crc="516316170" ref="birth"/>
   </folder>
@@ -154,44 +154,48 @@
       <caption webpage="social-structure" alt=""/>
     </file>
     <file name="asset 9symbol.png" crc="367480550" seo="true" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth">
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="social-structure" alt=""/>
       <caption webpage="social-structure" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
       <caption webpage="hunting" alt=""/>
       <caption webpage="hunting" alt=""/>
       <caption webpage="hunting" alt=""/>
@@ -200,39 +204,60 @@
       <caption webpage="tools-and-weapons" alt=""/>
       <caption webpage="tools-and-weapons" alt=""/>
       <caption webpage="tools-and-weapons" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
     </file>
     <file name="asset 11symbol252x199.png" crc="523385069" seo="true" ref="social-structure">
       <caption webpage="social-structure" alt=""/>
     </file>
     <file name="asset 8symbol.png" crc="4190849312" seo="true" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth">
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="ethnography" alt=""/>
@@ -240,26 +265,6 @@
       <caption webpage="ethnography" alt=""/>
       <caption webpage="social-structure" alt=""/>
       <caption webpage="social-structure" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
       <caption webpage="hunting" alt=""/>
       <caption webpage="hunting" alt=""/>
       <caption webpage="hunting" alt=""/>
@@ -270,67 +275,67 @@
       <caption webpage="tools-and-weapons" alt=""/>
       <caption webpage="tools-and-weapons" alt=""/>
       <caption webpage="tools-and-weapons" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
     </file>
     <file name="asset 71jarawa-crop-u21981.png" crc="204294528" seo="true" ref="social-structure">
       <caption webpage="social-structure" alt=""/>
     </file>
     <file name="asset 11symbol-crop-u7965.png" crc="465762820" seo="true" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth">
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="marriage" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="settlements" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
       <caption webpage="birth" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="marriage" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="subsistence" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="cooking" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="ethnography" alt=""/>
       <caption webpage="social-structure" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="settlements" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="rituals-and-beliefs" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="subsistence" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
-      <caption webpage="coming-of-age" alt=""/>
       <caption webpage="hunting" alt=""/>
       <caption webpage="hunting" alt=""/>
       <caption webpage="hunting" alt=""/>
@@ -341,16 +346,11 @@
       <caption webpage="tools-and-weapons" alt=""/>
       <caption webpage="tools-and-weapons" alt=""/>
       <caption webpage="tools-and-weapons" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
-      <caption webpage="foraging" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
+      <caption webpage="ecology" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="social-structure:ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth"/>
     <file name="asset 60jarawa.png" crc="453131281" seo="true" ref="ecology">
@@ -575,19 +575,19 @@
       <caption webpage="ecology" alt=""/>
     </file>
     <file name="asset 9symbol-crop-u3862.png" crc="4212712706" seo="true" ref="ecology:ethnography:rituals-and-beliefs:coming-of-age:marriage:subsistence:foraging:cooking:material-culture:settlements:tools-and-weapons:hunting:birth">
-      <caption webpage="ecology" alt=""/>
-      <caption webpage="cooking" alt=""/>
-      <caption webpage="marriage" alt=""/>
-      <caption webpage="birth" alt=""/>
-      <caption webpage="ethnography" alt=""/>
-      <caption webpage="settlements" alt=""/>
       <caption webpage="rituals-and-beliefs" alt=""/>
+      <caption webpage="settlements" alt=""/>
+      <caption webpage="birth" alt=""/>
+      <caption webpage="foraging" alt=""/>
+      <caption webpage="material-culture" alt=""/>
+      <caption webpage="marriage" alt=""/>
       <caption webpage="subsistence" alt=""/>
       <caption webpage="coming-of-age" alt=""/>
+      <caption webpage="cooking" alt=""/>
+      <caption webpage="ethnography" alt=""/>
       <caption webpage="hunting" alt=""/>
       <caption webpage="tools-and-weapons" alt=""/>
-      <caption webpage="material-culture" alt=""/>
-      <caption webpage="foraging" alt=""/>
+      <caption webpage="ecology" alt=""/>
     </file>
     <file name="asset 63jarawa29x43.png" crc="520934096" seo="true" ref="ecology">
       <caption webpage="ecology" alt=""/>
@@ -650,10 +650,10 @@
     <file name="asset 30jarawa.png" crc="4125163730" seo="true" ref="rituals-and-beliefs">
       <caption webpage="rituals-and-beliefs" alt=""/>
     </file>
-    <file name="asset 30jarawa-crop-u17250.png" crc="56936190" seo="true" ref="rituals-and-beliefs">
+    <file name="asset 30jarawa-crop-u17250.png" crc="3902089263" seo="true" ref="rituals-and-beliefs">
       <caption webpage="rituals-and-beliefs" alt=""/>
     </file>
-    <file name="asset 30jarawa-crop-u172502.png" crc="62373028" seo="true" ref="rituals-and-beliefs">
+    <file name="asset 30jarawa-crop-u172502.png" crc="360072818" seo="true" ref="rituals-and-beliefs">
       <caption webpage="rituals-and-beliefs" alt=""/>
     </file>
     <file name="asset 30jarawa-crop-u172503.png" crc="3830334651" seo="true" ref="rituals-and-beliefs">
@@ -735,13 +735,13 @@
     <file name="asset 41jarawa316x224.png" crc="450852349" seo="true" ref="foraging">
       <caption webpage="foraging" alt=""/>
     </file>
-    <file name="asset 14jarawa-crop-u17336.png" crc="4258614224" seo="true" ref="foraging">
+    <file name="asset 14jarawa-crop-u17336.png" crc="4043929028" seo="true" ref="foraging">
       <caption webpage="foraging" alt=""/>
     </file>
     <file name="asset 41jarawa-crop-u17350.png" crc="135772531" seo="true" ref="foraging">
       <caption webpage="foraging" alt=""/>
     </file>
-    <file name="asset 14jarawa-crop-u173362.png" crc="3952842271" seo="true" ref="foraging">
+    <file name="asset 14jarawa-crop-u173362.png" crc="4008400417" seo="true" ref="foraging">
       <caption webpage="foraging" alt=""/>
     </file>
     <file name="asset 41jarawa-crop-u173502.png" crc="238476086" seo="true" ref="foraging">
@@ -917,19 +917,19 @@
       <caption webpage="birth" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="274126336" seo="true" mt="1527587564678" redirect="true"/>
-  <file name="social-structure.html" crc="292051161" seo="true" mt="1525747592898" redirect="true"/>
-  <file name="ecology.html" crc="3865410226" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="ethnography.html" crc="183517966" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="rituals-and-beliefs.html" crc="507578168" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="coming-of-age.html" crc="3801228571" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="marriage.html" crc="4210906939" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="subsistence.html" crc="277996872" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="foraging.html" crc="3813826514" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="cooking.html" crc="481161042" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="material-culture.html" crc="462337992" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="settlements.html" crc="4089252671" seo="true" mt="1525747496454" redirect="true"/>
-  <file name="tools-and-weapons.html" crc="3762242608" seo="true" mt="1525757321773" redirect="true"/>
-  <file name="hunting.html" crc="4084953650" seo="true" mt="1525710751445" redirect="true"/>
-  <file name="birth.html" crc="100797321" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="index.html" crc="279599705" seo="true" mt="1527590303085" redirect="true"/>
+  <file name="social-structure.html" crc="194737869" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="ecology.html" crc="327276288" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="ethnography.html" crc="3898261445" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="rituals-and-beliefs.html" crc="3965733399" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="coming-of-age.html" crc="320451259" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="marriage.html" crc="4075542886" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="subsistence.html" crc="518343361" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="foraging.html" crc="254398906" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="cooking.html" crc="175180861" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="material-culture.html" crc="161186089" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="settlements.html" crc="3983696376" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="tools-and-weapons.html" crc="470918785" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="hunting.html" crc="271363983" seo="true" mt="1525710751445" redirect="true"/>
+  <file name="birth.html" crc="3900987838" seo="true" mt="1525710751445" redirect="true"/>
 </manifest>
